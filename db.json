@@ -1,0 +1,203 @@
+{
+  "contacts": [
+    {
+      "description": "GITHUB",
+      "icon": "github-circled",
+      "value": "https://github.com/aelthas02/",
+      "copyValue": "https://github.com/aelthas02/"
+    },
+    {
+      "description": "LINKEDIN",
+      "icon": "linkedin-squared",
+      "value": "https://linkedin.com/in/breno-moreira-",
+      "copyValue": "www.linkedin.com/in/breno-moreira-"
+    },
+    {
+      "description": "E-MAIL",
+      "icon": "mail-alt",
+      "value": "breno-moreira@hotmail.com",
+      "copyValue": "breno-moreira@hotmail.com"
+    },
+    {
+      "description": "WHATSAPP",
+      "icon": "whatsapp",
+      "value": "http://wa.me/+5512981353729",
+      "copyValue": "+5512981353729"
+    }
+  ],
+  "objectives": [
+    { "objective": "LOOKING FOR A JOB IN EUROPE (I GOT ITALIAN CITZENSHIP)" },
+    { "objective": "IMPROVE MY KNOWLEDGE IN FRONTEND" },
+    { "objective": "IMPROVE MY KNOWLEDGE IN CLOUD AND DEVOPS" },
+    { "objective": "IMPROVE SOFTSKILLS FOR LEADERSHIP PROFILE" }
+  ],
+  "experiences": [
+    {
+      "title": "GRUPO APOSTA GANHA",
+      "skills": ["Angular", "TypeScript", "RxJS", "Figma", "Storybook", "Nx"],
+      "listContent": [
+        {
+          "item": "Senior Frontend Developer",
+          "subitem": "Experience during a war room of development of a new system in Angular 17 as a product, using Design System, Storybook and Monorepo architecture using Nx."
+        },
+        {
+          "item": "Frontend Developer",
+          "subitem": "AngularJS development and maintenance of a betting system with several kind of betting options. Cassino and live games such as: Football, volleyball, basketball, casinos, reality shows, politics, minigames etc. Responsible for a backoffice system development and maintenance in angular 15. This system is used for profit/loss, games and promotions/coupons management. This system's development includes unit tests using Jasmine and Karma and reactive programming using RxJs for HTTP requests. I Also had little experience developing jobs for github actions and configuring CI"
+        }
+      ]
+    },
+    {
+      "title": "ACT DIGITAL",
+      "skills": ["AngularJS", "JavaScript", "TypeScript", "RxJS", "Figma"],
+      "listContent": [
+        {
+          "item": "Frontend Developer",
+          "subitem": "Development and maintenance of an Internet Banking system for Bmg Bank. Development of a new feature of additional credit card following a design in Figma and assisting a Junior developer."
+        }
+      ]
+    },
+    {
+      "title": "ENFORCE",
+      "skills": ["Angular", "TypeScript", "JavaScript", "RxJS", "Figma"],
+      "listContent": [
+        {
+          "item": "Frontend Developer",
+          "subitem": "Development of integrator web system for data management of distressed debts (corporate non-performing loans) This system gathers informations of other specific systems like investigation, properties, bank balances and informations. And with all together, the user can have a brief of the case in process and have actions on it like proposing a deal with the person or company that's being sued."
+        }
+      ]
+    },
+    {
+      "title": "SOLUCX - SOFTWARE PARA GESTÃO DE EXPERIÊNCIAS",
+      "skills": [
+        "Vue",
+        "TypeScript",
+        "JavaScript",
+        "NestJS",
+        "Figma",
+        "Test-Driven Development"
+      ],
+      "listContent": [
+        {
+          "item": "Frontend Developer",
+          "subitem": "Development of a customer satisfaction survey software for several companies. This system consists of capturing the customers experience rating on buying or consuming a service of a specific company. There are different ways of capturing this rating like NPS via E-Mail, SMS, physical on-site totem etc. Then this company, with this solution, can have graphs, reports and signals of how it could improve the customer's experience. I could maintain and develop new features in Frontend, and later, develop new backend endpoints following the TDD methodology."
+        }
+      ]
+    },
+    {
+      "title": "HIPR SISTEMAS",
+      "skills": [
+        "Angular 8",
+        "TypeScript",
+        "JavaScript",
+        "RxJS",
+        "Microsoft Azure"
+      ],
+      "listContent": [
+        {
+          "item": "Frontend Developer",
+          "subitem": "App development and maintenance with Angular 8 and TypeScript This App shows any sort of stores available in the current location according to the GPS and allows the user to buy products from them. The stores generally give the options of delivery or withdraw in the store itself. This app is available in Apple Store or Google Store."
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "icon": "keyboard",
+      "type": "DEVELOPMENT",
+      "items": [
+        "ANGULAR 2+",
+        "TYPESCRIPT",
+        "RXJS",
+        "JASMINE / KARMA",
+        "BOOTSTRAP / TAILWIND",
+        "STORYBOOK",
+        "MONOREPO WITH Nx"
+      ]
+    },
+    {
+      "icon": "wrench",
+      "type": "TOOLS",
+      "items": [
+        "FIGMA",
+        "VISUAL CODE",
+        "POSTMAN",
+        "GITHUB",
+        "AZURE",
+        "JIRA / TRELLO",
+        "DEVTOOLS"
+      ]
+    },
+    {
+      "icon": "globe",
+      "type": "LANGUAGES",
+      "items": [
+        "PORTUGUESE (NATIVE)",
+        "ENGLISH (ADVANCED)",
+        "ITALIAN (BASIC)",
+        "GERMAN (BASIC)"
+      ]
+    },
+    {
+      "icon": "plus",
+      "type": "OTHER KNOWLEDGES",
+      "items": ["PIPELINE", "CI/CD", "AWS BASICS", "GIT"]
+    }
+  ],
+  "education": {
+    "formation": [
+      {
+        "title": "[MBA] CLOUD COMPUTING & DEVOPS",
+        "listContent": [
+          {
+            "item": "IMPACTA TECNOLOGIA - Apr 2023 -> Fev 2024",
+            "subitem": "Activities: Cloud Computing with AWS, Development of pipelines using GitHub Actions and knowledge of DevOps concepts. Developed skills / knowledge: DevOps, Cloud Computing and Pipelines"
+          }
+        ]
+      },
+      {
+        "title": "[BACHELOR] COMPUTER ENGINEERING",
+        "listContent": [
+          {
+            "item": "ETEP FACULDADES - Jan 2014 -> Dez 2018",
+            "subitem": "Activities: Course conclusion work consists of an arduino prototype for outlet energy consumption monitoring, using an developed android app and cloud data service. The idea is to explore the concept of internet of things."
+          }
+        ]
+      },
+      {
+        "title": "[TECHNICIAN] COMPUTER TECHNICIAN",
+        "listContent": [
+          {
+            "item": "COLÉGIO TÉCNICO ETEP - Jan 2009 -> Dez 2011",
+            "subitem": "Activities: The project automatizes a cinema. Developed skills / knowledge: Hardware, software development, network, computer concepts and science"
+          }
+        ]
+      }
+    ],
+    "certificates": [
+      {
+        "label": "AWS ACADEMY CLOUD FOUNDATIONS",
+        "certificateUrl": "https://www.credly.com/badges/92d4520c-a216-41e7-ae6b-dd1db63b3bac/public_url"
+      },
+      {
+        "label": "ANGULAR 14 WITH RXJS",
+        "certificateUrl": "https://www.udemy.com/certificate/UC-88966ec3-1439-4d77-9b46-6e638fee1c7f/"
+      },
+      {
+        "label": "ANGULAR 14 TESTING",
+        "certificateUrl": "https://www.udemy.com/certificate/UC-45d98223-0ebb-416b-9c13-8585a0739d8e/"
+      },
+      {
+        "label": "MONGO BASICS",
+        "certificateUrl": "https://university.mongodb.com/course_completion/9f8b58bb-59dd-4177-877f-e6d2e3081e12"
+      },
+      {
+        "label": "RESPONSIVE WEBDESIGN",
+        "certificateUrl": "https://www.freecodecamp.org/certification/aelthas02/responsive-web-design"
+      },
+      {
+        "label": "JS ALGORITHMS AND DATA STRUCTURE",
+        "certificateUrl": "https://www.freecodecamp.org/certification/aelthas02/javascript-algorithms-and-data-structures"
+      }
+    ]
+  }
+}
