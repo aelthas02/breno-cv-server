@@ -26,8 +26,10 @@
     }
   ],
   "objectives": [
-    { "objective": "LOOKING FOR A JOB IN EUROPE (I GOT ITALIAN CITZENSHIP)" },
-    { "objective": "IMPROVE MY KNOWLEDGE IN FRONTEND" },
+    {
+      "objective": "LOOKING FOR PROFESSIONAL EXPERIENCE IN EUROPE (I GOT ITALIAN CITZENSHIP)"
+    },
+    { "objective": "DEEPER KNOWLEDGE IN FRONTEND" },
     { "objective": "IMPROVE MY KNOWLEDGE IN CLOUD AND DEVOPS" },
     { "objective": "IMPROVE SOFTSKILLS FOR LEADERSHIP PROFILE" }
   ],
@@ -110,8 +112,8 @@
         "RXJS",
         "JASMINE / KARMA",
         "BOOTSTRAP / TAILWIND",
-        "STORYBOOK",
-        "MONOREPO WITH Nx"
+        "STORYBOOK WITH ANGULAR",
+        "MONOREPO WITH NX"
       ]
     },
     {
@@ -119,12 +121,11 @@
       "type": "TOOLS",
       "items": [
         "FIGMA",
-        "VISUAL CODE",
+        "SWAGGER",
         "POSTMAN",
         "GITHUB",
         "AZURE",
-        "JIRA / TRELLO",
-        "DEVTOOLS"
+        "JIRA / TRELLO"
       ]
     },
     {
@@ -140,7 +141,7 @@
     {
       "icon": "plus",
       "type": "OTHER KNOWLEDGES",
-      "items": ["PIPELINE", "CI/CD", "AWS BASICS", "GIT"]
+      "items": ["NESTJS", "TDD", "AWS BASICS"]
     }
   ],
   "education": {
