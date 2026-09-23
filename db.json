@@ -27,16 +27,29 @@
   ],
   "objectives": [
     {
-      "objective": "LOOKING FOR PROFESSIONAL EXPERIENCE IN EUROPE (I GOT ITALIAN CITZENSHIP)"
+      "objective": "LOOKING FOR PROFESSIONAL EXPERIENCE IN EUROPE (EUCITZEN)"
     },
-    { "objective": "DEEPER KNOWLEDGE IN FRONTEND" },
-    { "objective": "IMPROVE MY KNOWLEDGE IN CLOUD AND DEVOPS" },
-    { "objective": "IMPROVE SOFTSKILLS FOR LEADERSHIP PROFILE" }
+    {
+      "objective": "DEEPER KNOWLEDGE IN FRONTEND"
+    },
+    {
+      "objective": "IMPROVE MY KNOWLEDGE IN CLOUD AND DEVOPS"
+    },
+    {
+      "objective": "IMPROVE SOFTSKILLS FOR LEADERSHIP PROFILE"
+    }
   ],
   "experiences": [
     {
       "title": "GRUPO APOSTA GANHA",
-      "skills": ["Angular", "TypeScript", "RxJS", "Figma", "Storybook", "Nx"],
+      "skills": [
+        "Angular",
+        "TypeScript",
+        "RxJS/Signals",
+        "Figma",
+        "Storybook",
+        "Nx"
+      ],
       "listContent": [
         {
           "item": "Senior Frontend Developer",
@@ -50,7 +63,13 @@
     },
     {
       "title": "ACT DIGITAL",
-      "skills": ["AngularJS", "JavaScript", "TypeScript", "RxJS", "Figma"],
+      "skills": [
+        "AngularJS",
+        "JavaScript",
+        "TypeScript",
+        "RxJS",
+        "Figma"
+      ],
       "listContent": [
         {
           "item": "Frontend Developer",
@@ -60,7 +79,13 @@
     },
     {
       "title": "ENFORCE",
-      "skills": ["Angular", "TypeScript", "JavaScript", "RxJS", "Figma"],
+      "skills": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "RxJS",
+        "Figma"
+      ],
       "listContent": [
         {
           "item": "Frontend Developer",
@@ -141,7 +166,11 @@
     {
       "icon": "plus",
       "type": "OTHER KNOWLEDGES",
-      "items": ["NESTJS", "TDD", "AWS BASICS"]
+      "items": [
+        "NESTJS",
+        "TDD",
+        "AWS BASICS"
+      ]
     }
   ],
   "education": {
