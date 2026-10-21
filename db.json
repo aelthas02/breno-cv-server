@@ -27,13 +27,13 @@
   ],
   "objectives": [
     {
-      "objective": "LOOKING FOR PROFESSIONAL EXPERIENCE IN EUROPE (EUCITZEN)"
+      "objective": "LOOKING FOR PROFESSIONAL EXPERIENCE IN EUROPE (EU CITZEN)"
     },
     {
-      "objective": "DEEPER KNOWLEDGE IN FRONTEND"
+      "objective": "APPLY MY KNOWLEDGE IN FRONTEND"
     },
     {
-      "objective": "IMPROVE MY KNOWLEDGE IN CLOUD AND DEVOPS"
+      "objective": "IMPROVE MY KNOWLEDGE IN BACKEND DEVELOPMENTO TO BECOME A FULLSTACK DEVELOPER"
     },
     {
       "objective": "IMPROVE SOFTSKILLS FOR LEADERSHIP PROFILE"
@@ -53,7 +53,7 @@
       "listContent": [
         {
           "item": "Senior Frontend Developer",
-          "subitem": "Experience during a war room of development of a new system in Angular 17 as a product, using Design System, Storybook and Monorepo architecture using Nx."
+          "subitem": "Experience during a war room of development of a new system in Angular 19 as a product, using Design System, Storybook and Monorepo architecture using Nx."
         },
         {
           "item": "Frontend Developer",
@@ -134,11 +134,11 @@
       "items": [
         "ANGULAR 2+",
         "TYPESCRIPT",
-        "RXJS",
+        "RXJS / SIGNALS",
+        "STORYBOOK",
+        "MONOREPO WITH NX",
         "JASMINE / KARMA",
-        "BOOTSTRAP / TAILWIND",
-        "STORYBOOK WITH ANGULAR",
-        "MONOREPO WITH NX"
+        "BOOTSTRAP / TAILWIND"
       ]
     },
     {
@@ -148,9 +148,9 @@
         "FIGMA",
         "SWAGGER",
         "POSTMAN",
-        "GITHUB",
-        "AZURE",
-        "JIRA / TRELLO"
+        "GITHUB ACTIONS",
+        "LIGHTHOUSE",
+        "AZURE / JIRA"
       ]
     },
     {
@@ -168,8 +168,7 @@
       "type": "OTHER KNOWLEDGES",
       "items": [
         "NESTJS",
-        "TDD",
-        "AWS BASICS"
+        "TDD"
       ]
     }
   ],
@@ -204,6 +203,10 @@
       }
     ],
     "certificates": [
+      {
+        "label": "Frontend Performance Engineering",
+        "certificateUrl": "https://www.udemy.com/certificate/UC-ba77445d-9663-4567-9d8a-c35bb1cfd66b/"
+      },
       {
         "label": "AWS ACADEMY CLOUD FOUNDATIONS",
         "certificateUrl": "https://www.credly.com/badges/92d4520c-a216-41e7-ae6b-dd1db63b3bac/public_url"
