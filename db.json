@@ -1,12 +1,6 @@
 {
   "contacts": [
     {
-      "description": "GITHUB",
-      "icon": "github-circled",
-      "value": "https://github.com/aelthas02/",
-      "copyValue": "https://github.com/aelthas02/"
-    },
-    {
       "description": "LINKEDIN",
       "icon": "linkedin-squared",
       "value": "https://linkedin.com/in/breno-moreira-",
@@ -23,6 +17,22 @@
       "icon": "whatsapp",
       "value": "http://wa.me/+5512981353729",
       "copyValue": "+5512981353729"
+    },
+    {
+      "description": "Download CV (EN-PDF)",
+      "icon": "download",
+      "value": "assets/CV_EN.pdf"
+    },
+    {
+      "description": "Download CV (PT-PDF)",
+      "icon": "download",
+      "value": "assets/CV.pdf"
+    },
+    {
+      "description": "GITHUB",
+      "icon": "github-circled",
+      "value": "https://github.com/aelthas02/",
+      "copyValue": "https://github.com/aelthas02/"
     }
   ],
   "objectives": [
