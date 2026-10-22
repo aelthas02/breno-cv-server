@@ -27,12 +27,14 @@
     {
       "description": "CV (English)",
       "icon": "download",
-      "value": "assets/CV_EN.pdf"
+      "value": "assets/CV_EN.pdf",
+      "copyValue": "https://breno-cv.vercel.app/CV_EN.pdf"
     },
     {
       "description": "CV (Portuguese)",
       "icon": "download",
-      "value": "assets/CV.pdf"
+      "value": "assets/CV.pdf",
+      "copyValue": "https://breno-cv.vercel.app/CV.pdf"
     }
   ],
   "objectives": [
