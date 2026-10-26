@@ -29,3 +29,30 @@ jobs:
 
       - name: Validar JSON da base
         run: node -e "JSON.parse(require('node:fs').readFileSync('db.json', 'utf8'))"
+
+  deploy:
+    needs: validate
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    env:
+      VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Preparar projeto Vercel
+        run: npx vercel@latest pull --yes --environment=production --token="$VERCEL_TOKEN"
+
+      - name: Criar build de produção
+        run: npx vercel@latest build --prod --token="$VERCEL_TOKEN"
+
+      - name: Publicar na Vercel
+        run: npx vercel@latest deploy --prebuilt --prod --token="$VERCEL_TOKEN"
